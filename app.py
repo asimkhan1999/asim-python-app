@@ -4,4 +4,4 @@ Number1 = 4
 Number2 = 6
 
 Total = Number1 + Number2
-print ("The Total is "+Total)
+print ("The Total is ",Total)
